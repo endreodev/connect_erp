@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988975610094",
+    "project_id": "connecterp-ae87d",
+    "storage_bucket": "connecterp-ae87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988975610094:android:f23efff47632b250629bff",
+        "android_client_info": {
+          "package_name": "com.alphatech.connect_erp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988975610094-vd6os7mfidnkushste2gck4pv2rgdl1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alphatech.connect_erp",
+            "certificate_hash": "8d6c53ae169f970f461224c545e43de4bca51a25"
+          }
+        },
+        {
+          "client_id": "988975610094-gfor1esrlivv2f5b09994igns1a41sqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIuLWLbmHJ353oByy6ZkBz-puv61WeS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988975610094-gfor1esrlivv2f5b09994igns1a41sqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../Z_JSEXTENSIONS/myConsole"
+		},
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../flutter-notifications"
+		}
+	],
+	"settings": {
+		"totvsLanguageServer.welcomePage": false
+	}
+}
